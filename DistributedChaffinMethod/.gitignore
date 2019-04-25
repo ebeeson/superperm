@@ -1,0 +1,11 @@
+# compiled binary
+DistributedChaffinMethod
+DCM
+dcm
+
+# log files
+DCMLog_*.txt
+DCMServerResponse_*.txt
+
+# Visual Studio Code workspace files
+.vscode
